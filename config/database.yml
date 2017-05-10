@@ -1,0 +1,24 @@
+development:
+  adapter: postgresql
+  database: todolist_development
+  encoding: unicode
+  host: localhost
+  password: ravimu20
+  pool: 5
+  username: inna
+production:
+  adapter: postgresql
+  database: todolist_production
+  encoding: unicode
+  host: localhost
+  password: "<%= ENV['MYSHOP_DATABASE_PASSWORD'] %>"
+  pool: 5
+  username: myshop
+test:
+  adapter: postgresql
+  database: todolist_test
+  encoding: unicode
+  host: localhost
+  password: ravimu20
+  pool: 5
+  username: inna

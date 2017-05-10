@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="Rails todolist: test" uuid="c25387ee-9748-4dbb-a3cf-cda25d5db620">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" />
+    </data-source>
+    <data-source name="Rails todolist: development" uuid="91817d7f-3c9c-4fef-8624-177450256b0f">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" />
+      <first-sync>true</first-sync>
+    </data-source>
+    <data-source name="Rails todolist: production" uuid="ca288e40-910c-4607-b58e-44022e159390">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" />
+      <user-name>todolist</user-name>
+    </data-source>
+  </component>
+</project>
